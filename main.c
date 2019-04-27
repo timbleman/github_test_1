@@ -1,4 +1,3 @@
-int num = 0;
 char c = 'b';
 double flop = 3.3;
 int num2 = 0;
